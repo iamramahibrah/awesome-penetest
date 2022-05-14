@@ -471,6 +471,7 @@ See also *[Intercepting Web proxies](#intercepting-web-proxies)*.
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
 * [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
 * [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
+* [htrace.sh](https://github.com/trimstray/htrace.sh) - htrace.sh is a shell script for http/https troubleshooting and profiling. It's also a simple wrapper around several open source security tools.
 
 ### Web Vulnerability Scanners
 
